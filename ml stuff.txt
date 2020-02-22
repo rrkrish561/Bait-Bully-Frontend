@@ -1,0 +1,6 @@
+- choose 1000 random titles from clickbait and 1000 from legit, and make 1 csv with proper labels
+
+- choose large number titles from both data sets randomly, and create 1 csv with titles
+- do training and testing split for the csvs 80-20
+- figure out automl
+- find out way to communicate with raghu
