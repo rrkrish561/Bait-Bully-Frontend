@@ -1,0 +1,10 @@
+ {
+    "name": "BaitBully",
+    "version": "1.0",
+    "description": "Mark Clickbait",
+    "permissions": ["declarativeContent","storage"],
+    "background": {
+      "scripts": ["background.js"],
+    },
+    "manifest_version": 2
+  }
